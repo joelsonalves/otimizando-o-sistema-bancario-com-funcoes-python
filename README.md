@@ -1,2 +1,2 @@
-# otimizando-o-sistema-bancario-com-funcoes-python
-Otimizando o Sistema Bancário com Funções Python
+# otimizando-o-sistema-bancario-em-python
+Otimizando o Sistema Bancário em Python

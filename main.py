@@ -67,7 +67,7 @@ if __name__ == '__main__':
 
                     if cliente:
 
-                        numero_da_conta = f'{str(len(banco.clientes) + 1).zfill(7)}'
+                        numero_da_conta = f'{str(len(agencia.contas) + 1).zfill(7)}'
                         agencia = banco.localizar_agencia(numero_da_agencia)
 
                         print()

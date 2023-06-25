@@ -1,5 +1,5 @@
-from cliente import Cliente
-from agencia import Agencia
+from entidades.cliente import Cliente
+from entidades.agencia import Agencia
 
 class Banco:
 
